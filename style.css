@@ -1,0 +1,92 @@
+
+.headers {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(209, 235, 245)
+}
+.doctor {
+    margin-top:  250px;
+    font-size: 25px;
+}
+.doctor h2 {
+    color: blue;
+}
+.doc_img img {
+    width: 500px;
+}
+.parent {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 250px;
+ 
+}
+.icon {
+    width: 80px;
+    height: 80px;
+}
+.headers2 {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(209, 235, 245);
+    margin-top: 150px;
+    
+}
+.doc2_img img {
+    width: 500px;
+}
+.doctor2 h1 {
+    color: rgb(0, 0, 0);
+}
+.doctor2 {
+    margin-top:  250px;
+    font-size: 25px;
+}
+.parent2 {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 250px;
+ 
+}
+.icon {
+    width: 80px;
+    height: 80px;
+}
+.lesson {
+    margin-top: 150px;
+    text-align: center;
+}
+.lesson h1 {
+    font-size: 75px;
+}
+.serv img {
+    width: 180px;
+    height: 200px;
+ 
+} 
+ .serv {
+    display: flex;
+    justify-content: space-around;
+ 
+}
+
+.btn {
+    border-radius: 15px;
+    height: 50px;
+    width: 150px;
+    font-size: 25px;
+ color: white;
+ background-color: blue;
+}
+.bi {
+    margin-left: 50%;
+    margin-top: 80px;
+}
+
+
+
